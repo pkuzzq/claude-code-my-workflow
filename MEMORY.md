@@ -1,8 +1,8 @@
-# Project Memory
+# 项目记忆
 
-Corrections and learned facts that persist across sessions.
-When a mistake is corrected, append a `[LEARN:category]` entry below.
+跨会话持久化的纠正和学习的事实。
+当一个错误被纠正时，在下方追加一个 `[LEARN:分类]` 条目。
 
 ---
 
-<!-- Append new entries below. Most recent at bottom. -->
+<!-- 在下方追加新条目。最新的在底部。 -->
